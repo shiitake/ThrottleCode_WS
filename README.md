@@ -1,7 +1,9 @@
-AzureThrottling
+ThrottleCode_WS
 ===============
 
-This is pretty simple JavaScript that can be used to determine what your Azure SQL DB throttling code means. 
+This is similar to the pretty similar to the other project (AzureThrottling) except that instead of JavaScript this is written in C#. 
+
+This tool can be used to determine what your Azure SQL DB throttling code means. 
 
 Specifically: 
 1. The throttle mode
